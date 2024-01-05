@@ -1,32 +1,44 @@
 @font-face {
+  font-family: 'Big_Shoulders';
+  font-style:  normal;
+  font-weight: 420;
+  font-display: swap;
+  src: url("../fonts/BigShouldersText-Medium.ttf") format("truetype")
+
+}
+
+@font-face {
   font-family: 'Inter';
   font-style:  italic;
   font-weight: 420;
   font-display: swap;
-  src: url("../fonts/Inter-Italic.woff2?v=3.12") format("woff2")
+  src: url("../fonts/Inter-Italic.woff2") format("woff2")
 }
+
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
   font-weight: 420;
   font-display: swap;
-  src: url("../fonts/Inter-Regular.woff2?v=3.12") format("woff2")
+  src: url("../fonts/Inter-Regular.woff2") format("woff2")
 
 }
+
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
   font-weight: 700;
   font-display: swap;
-  src: url("../fonts/Inter-Bold.woff2?v=3.12") format("woff2")
+  src: url("../fonts/Inter-Bold.woff2") format("woff2")
 
 }
+
 @font-face {
   font-family: 'Inter';
   font-style:  italic;
   font-weight: 700;
   font-display: swap;
-  src: url("../fonts/Inter-BoldItalic.woff2?v=3.12") format("woff2")
+  src: url("../fonts/Inter-BoldItalic.woff2") format("woff2")
 }
 
 @font-face {
@@ -45,7 +57,7 @@
   --alt2: #79808A;
   --alt3: #957A65;
   --border: #4B4B4B;
-  --header-font: "Inter";
+  --header-font: "Big_Shoulders";
   --mono-font: "mono";
 }
 
@@ -57,6 +69,29 @@ body {
   color: var(--text);
   font-weight: 400;
   background-color: var(--bg);
+}
+
+header {
+  height: 250px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+header img {
+  margin: 0;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.5);
+}
+
+main {
+  min-height: 420px;
+  padding: 0 15px;
+}
+
+nav {
+  position: absolute;
+  top: 0;
 }
 
 main {
@@ -77,6 +112,7 @@ nav #links {
   display: none;
   font-weight: 500;
   background-color: var(--bg-darker);
+  padding: 0 15px 15px 0;
   z-index: 1;
 }
 
@@ -109,9 +145,9 @@ nav #links {
   border-radius: 15px
 }
 
-.small {
+.small, .date {
   margin: 15px;
-  font-size: 80%;
+  font-size: 90%;
   text-align: center;
   font-style: italic;
   color: var(--alt1);
@@ -152,6 +188,9 @@ audio {
 img {
   margin-top: 15px;
   margin-bottom: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 100%;
   max-height: 100%;
   height: inherit !important;
@@ -210,7 +249,7 @@ h6 {
 }
 
 h2 {
-  font-size: 250%;
+  font-size: 420%;
   text-align: center;
   color: var(--header);
   margin-bottom: 1.2rem;
