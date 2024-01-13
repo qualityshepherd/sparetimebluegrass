@@ -6,4 +6,4 @@ tags: news
 
 How lucky are we to play with a backdrop like this?!
 
-![](asssets/images/170706-Sparetime-at-Terrace-500x375.jpeg)
+![](assets/images/170706-Sparetime-at-Terrace-500x375.jpeg)

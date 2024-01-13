@@ -76,8 +76,8 @@
       "tags": "news",
       "slug": "fall-2019"
     },
-    "markdown": "---\ntitle: Fall 2019\ndate: 2019-10-14\ntags: news\n---\n\n![](images/ST-at-rox-reunion-10_19-500x281.jpg) ![](images/Rox-Tavern-Reunion-10_2019-500x281.jpg)\n\nWell hello,\n\nHere we are wrapped up in fall with much cooler weather. SpareTime had fewer summer time gigs this year but made up for it with a full schedule in Sept/Oct from Sun Prairie to Lake Mills to Middleton and Madison.\n\nAnd what a gathering we had with the Roxbury Tavern Reunion.\n\nWe are singing the Buck Owens tune \"Hello Trouble\". Just take one good look at that group and \"here comes trouble that I'm never gonna see since you been away\" Thanks to Tom and all the Roxburians.\n\nGreat to see everyone and we are announcing that The Geezers New Years Eve party will be at the Common Ground this year. keep an eye here and we'll let you know when tickets are on sale.\n\nHope to see you soon.\n\nBB\n",
-    "html": "<p><img src=\"images/ST-at-rox-reunion-10_19-500x281.jpg\" alt=\"\" /> <img src=\"images/Rox-Tavern-Reunion-10_2019-500x281.jpg\" alt=\"\" /></p>\n<p>Well hello,</p>\n<p>Here we are wrapped up in fall with much cooler weather. SpareTime had fewer summer time gigs this year but made up for it with a full schedule in Sept/Oct from Sun Prairie to Lake Mills to Middleton and Madison.</p>\n<p>And what a gathering we had with the Roxbury Tavern Reunion.</p>\n<p>We are singing the Buck Owens tune \"Hello Trouble\". Just take one good look at that group and \"here comes trouble that I'm never gonna see since you been away\" Thanks to Tom and all the Roxburians.</p>\n<p>Great to see everyone and we are announcing that The Geezers New Years Eve party will be at the Common Ground this year. keep an eye here and we'll let you know when tickets are on sale.</p>\n<p>Hope to see you soon.</p>\n<p>BB</p>"
+    "markdown": "---\ntitle: Fall 2019\ndate: 2019-10-14\ntags: news\n---\n\n![](assets/images/ST-at-rox-reunion-10_19-500x281.jpg) ![](assets/images/Rox-Tavern-Reunion-10_2019-500x281.jpg)\n\nWell hello,\n\nHere we are wrapped up in fall with much cooler weather. SpareTime had fewer summer time gigs this year but made up for it with a full schedule in Sept/Oct from Sun Prairie to Lake Mills to Middleton and Madison.\n\nAnd what a gathering we had with the Roxbury Tavern Reunion.\n\nWe are singing the Buck Owens tune \"Hello Trouble\". Just take one good look at that group and \"here comes trouble that I'm never gonna see since you been away\" Thanks to Tom and all the Roxburians.\n\nGreat to see everyone and we are announcing that The Geezers New Years Eve party will be at the Common Ground this year. keep an eye here and we'll let you know when tickets are on sale.\n\nHope to see you soon.\n\nBB\n",
+    "html": "<p><img src=\"assets/images/ST-at-rox-reunion-10_19-500x281.jpg\" alt=\"\" /> <img src=\"assets/images/Rox-Tavern-Reunion-10_2019-500x281.jpg\" alt=\"\" /></p>\n<p>Well hello,</p>\n<p>Here we are wrapped up in fall with much cooler weather. SpareTime had fewer summer time gigs this year but made up for it with a full schedule in Sept/Oct from Sun Prairie to Lake Mills to Middleton and Madison.</p>\n<p>And what a gathering we had with the Roxbury Tavern Reunion.</p>\n<p>We are singing the Buck Owens tune \"Hello Trouble\". Just take one good look at that group and \"here comes trouble that I'm never gonna see since you been away\" Thanks to Tom and all the Roxburians.</p>\n<p>Great to see everyone and we are announcing that The Geezers New Years Eve party will be at the Common Ground this year. keep an eye here and we'll let you know when tickets are on sale.</p>\n<p>Hope to see you soon.</p>\n<p>BB</p>"
   },
   {
     "meta": {
@@ -126,8 +126,8 @@
       "tags": "news",
       "slug": "july-gig-at-the-uw-union-terrace"
     },
-    "markdown": "---\ntitle: July gig at the UW Union Terrace\ndate: 2017-07-11\ntags: news\n---\n\nHow lucky are we to play with a backdrop like this?!\n\n![](asssets/images/170706-Sparetime-at-Terrace-500x375.jpeg)\n",
-    "html": "<p>How lucky are we to play with a backdrop like this?!</p>\n<p><img src=\"asssets/images/170706-Sparetime-at-Terrace-500x375.jpeg\" alt=\"\" /></p>"
+    "markdown": "---\ntitle: July gig at the UW Union Terrace\ndate: 2017-07-11\ntags: news\n---\n\nHow lucky are we to play with a backdrop like this?!\n\n![](assets/images/170706-Sparetime-at-Terrace-500x375.jpeg)\n",
+    "html": "<p>How lucky are we to play with a backdrop like this?!</p>\n<p><img src=\"assets/images/170706-Sparetime-at-Terrace-500x375.jpeg\" alt=\"\" /></p>"
   },
   {
     "meta": {
@@ -446,7 +446,7 @@
       "tags": "news",
       "slug": "winter-2019"
     },
-    "markdown": "---\ntitle: Winter 2019\ndate: 2019-12-06\ntags: news\n---\n\n![](images/ST-at-Faded-Roots-Dec-2019-500x375.jpg)\n\nWe are kicking this old year out.\n\nWe started December at Faded Roots in Sun Prairie. It was Ladies night and Jen got up and sang some tunes with us. Thanks Jen.\n",
-    "html": "<p><img src=\"images/ST-at-Faded-Roots-Dec-2019-500x375.jpg\" alt=\"\" /></p>\n<p>We are kicking this old year out.</p>\n<p>We started December at Faded Roots in Sun Prairie. It was Ladies night and Jen got up and sang some tunes with us. Thanks Jen.</p>"
+    "markdown": "---\ntitle: Winter 2019\ndate: 2019-12-06\ntags: news\n---\n\n![](assets/images/ST-at-Faded-Roots-Dec-2019-500x375.jpg)\n\nWe are kicking this old year out.\n\nWe started December at Faded Roots in Sun Prairie. It was Ladies night and Jen got up and sang some tunes with us. Thanks Jen.\n",
+    "html": "<p><img src=\"assets/images/ST-at-Faded-Roots-Dec-2019-500x375.jpg\" alt=\"\" /></p>\n<p>We are kicking this old year out.</p>\n<p>We started December at Faded Roots in Sun Prairie. It was Ladies night and Jen got up and sang some tunes with us. Thanks Jen.</p>"
   }
 ]

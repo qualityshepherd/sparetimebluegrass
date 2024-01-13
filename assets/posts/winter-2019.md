@@ -4,7 +4,7 @@ date: 2019-12-06
 tags: news
 ---
 
-![](images/ST-at-Faded-Roots-Dec-2019-500x375.jpg)
+![](assets/images/ST-at-Faded-Roots-Dec-2019-500x375.jpg)
 
 We are kicking this old year out.
 
