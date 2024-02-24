@@ -2,3 +2,9 @@
 
 # [Sparetime Bluegrass](https://qualityshepherd.github.io/sparetimebluegrass/)
 _we're having a good time..._
+
+![image](assets/images/sparetime.jpeg)
+
+## For Bobby
+- posts go in `assets/posts`
+- images in `assets/images`
