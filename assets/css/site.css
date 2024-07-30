@@ -144,7 +144,7 @@ nav #links {
   border-radius: 15px
 }
 
-.movie {
+.movie, iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
