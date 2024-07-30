@@ -144,6 +144,14 @@ nav #links {
   border-radius: 15px
 }
 
+.movie, iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  text-decoration: none;
+}
+
 .small, .date {
   margin: 15px;
   font-size: 90%;
