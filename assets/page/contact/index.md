@@ -5,7 +5,7 @@ date: "2009-11-25"
 
 For bookings call Bobby Batyko.
 
-Bobby Batyko 606 S Thornton Ave Madison, WI 53703 424-249-9945 bbatyko1@gmail.com
+Bobby Batyko - 606 S Thornton Ave Madison, WI 53703 - 424-249-9945 - bbatyko1@gmail.com
 
 Or to book The Steenos........
 
