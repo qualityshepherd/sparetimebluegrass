@@ -2,7 +2,12 @@
 title: "Schedule"
 date: "2009-11-25"
 ---
+2024 Summer "Tour"
+- **August 18**, The Bur Oak, 2262 Winnegabo St., Madison, 7:30. (Opening for Katie Powderly.)
+- **August 22**, Memorial Union Terrace, 7:00-10:00, with They Talk TOO Much.
+- **August 23**, The Glen, 3747 Speedway Road, Madison, 5:30-7:30, with They Talk TOO Much.
 
+  
 2023 Shows
 
 - Sunday, **February19**, 1-4pm, United Way Bluegrass Fundraiser, The Barrymore Theater (2090 Atwood Ave, Madison)
