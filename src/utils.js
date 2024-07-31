@@ -30,6 +30,8 @@ export function sortByDate (asc = true) {
   }
 }
 
+
+
 export function renderTags (tagString, hash = '#tags') {
   if (tagString) {
     return tagString.toLowerCase().split(/,\s?/).map(tag => {

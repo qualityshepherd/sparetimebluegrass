@@ -9,6 +9,7 @@
     "url": "https://qualityshepherd.github.io/sparetimebluegrass",
     "pathToIndex": "./src/data/siteIndex.json",
     "pathToPostsFolder": "./assets/posts",
+    "pathToPagesFolder": "./assets/pages",
     "pathToRssFolder": "./assets/rss",
     "maxPosts": "20"
   },

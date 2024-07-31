@@ -1,7 +1,7 @@
 import { readSiteIndex, renderTags, sortByDate } from '../utils'
 
 const tags = {
-  async render (params) {
+  async render (hash, params) {
     const t = params.get('t')
     const index = await readSiteIndex()
     const sorted = await index.sort(sortByDate())

@@ -1,12 +1,9 @@
 import blog from './views/blog.js'
 import post from './views/post.js'
-import about from './views/about.js'
 import tags from './views/tags.js'
 import search from './views/search.js'
 import error from './views/error.js'
-import contact from './views/contact.js'
-import discography from './views/discography.js'
-import schedule from './views/schedule.js'
+import page from './views/page.js'
 
 /**
  * To add pages:
@@ -17,13 +14,13 @@ import schedule from './views/schedule.js'
 const routes = {
   '#blog': blog,
   '#post': post,
-  '#about': about,
   '#tags': tags,
   '#search': search,
   '#error': error,
-  '#contact': contact,
-  '#discography': discography,
-  '#schedule': schedule
+  '#contact': page,
+  '#discography': page,
+  '#about': page,
+  '#schedule': page
 }
 
 /**
@@ -31,7 +28,7 @@ const routes = {
  */
 const router = async () => {
   const { hash, params } = await getHash()
-  document.querySelector('main').innerHTML = await routes[hash].render(params)
+  document.querySelector('main').innerHTML = await routes[hash].render(hash, params)
   setActiveNav(hash)
 }
 

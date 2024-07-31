@@ -10,6 +10,7 @@ _we're having a good time..._
 So, because I'm an idiot, I wrote my own blog software... and you're soaking in it. Blog posts are written in [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) or html. Each post is its own file and has metadata at the top.
 
 - blog posts are markdown files (`.md`) in `assets/posts`
+- pages are markdown files (`.md`) in `assets/pages`
 - images go in `assets/images` and you use markdown or html to add them to a blog post
 
 ### Posting to Blog

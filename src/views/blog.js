@@ -3,7 +3,7 @@ import config from '../../package'
 const maxPosts = config.splog.maxPosts
 
 const blog = {
-  async render (params) {
+  async render (hash, params) {
     const numPosts = params.get('numPosts') ? Number(params.get('numPosts')) + maxPosts : maxPosts
     const index = await readSiteIndex()
     const sorted = await index.sort(sortByDate())
