@@ -5,6 +5,7 @@ tags: news
 ---
 
 The SpareTime Bluegrass Band made the final round for the Madison Area Music Awards (MAMAs) in the following categories:
+
 **Category:** Album Of The Year (Overall)
 **Nominee:** Not Done Yet - SpareTime Bluegrass
 
