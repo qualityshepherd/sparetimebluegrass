@@ -16,6 +16,7 @@ The SpareTime Bluegrass Band made the final round for the Madison Area Music Awa
 **Nominee:** SpareTime Bluegrass
 
 Our recently deceased banjo player, Jim Robarts, has also been nominated
+
 **Category:** Instrumentalist of the year
 **Nominee:** Jim Robarts
 
