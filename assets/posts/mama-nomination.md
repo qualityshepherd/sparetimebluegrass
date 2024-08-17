@@ -27,6 +27,6 @@ Our recently deceased banjo player, Jim Robarts, has also been nominated
 
 We’d appreciate your vote for SpareTime.  And send Jim off with the respect he earned in Madison’s bluegrass community, his 25 years in SpareTime, and all the folks he sat in with throughout the years.
 
-Visit the [MAMA site] (https://www.broadjam.com/mama) to cast your vote.   
+Click [HERE for the MAMA site] (https://www.broadjam.com/mama) to cast your vote.   
 
 Thanks for your support!  Bobby Batyko
