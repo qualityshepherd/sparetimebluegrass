@@ -6,4 +6,6 @@ tags: news
 
 Absolutely perfect evening at the Terrace!
 
+![image](assets/images/jim.jpg)
+
 ![image](assets/images/Terrace-August-2024.jpg)
