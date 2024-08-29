@@ -1,5 +1,5 @@
 ---
-title: Memorial Union Terrace
+title: SpareTime at Memorial Union Terrace
 date: 2024-8-21
 tags: news
 ---
