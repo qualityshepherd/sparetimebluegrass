@@ -1,5 +1,6 @@
-## 2024 Summer "Tour"
+## 2024 Shows
 
+- **October 5**, Faded Roots Boutique, 375 E Main St., Sun Prairie, 10:30am-12:30pm
 - **August 18**, The Bur Oak, 2262 Winnegabo St., Madison, 7:30. (Opening for Katie Powderly.)
 - **August 22**, Memorial Union Terrace, 7:00-10:00, with They Talk TOO Much.
 - **August 23**, The Glen, 3747 Speedway Road, Madison, 5:30-7:30, with They Talk TOO Much.
