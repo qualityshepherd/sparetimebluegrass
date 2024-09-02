@@ -2,6 +2,7 @@ To order, send $10 per CD (or $15 for 2 CDs) to: SpareTime Bluegrass Band c/o Bo
 
 ### “Not Done Yet"
 SpareTime - Recorded February 19, 2023 at The Barrymore Theatre, Madison, WI by Audrey Martinovich and Stephanie Benicek of Audio for the Arts.
+
 Band Members: Bobby Batyko (guitar/vocals), Lisa Case Doro (fiddle/vocals), Lorie Docken (bass), Jim Robarts (banjo/vocals), Dale Ward (mandolin/dobro/vocals)
 
 - El Cumbanchero (Marin Rafael Hernandez)
@@ -16,6 +17,7 @@ Band Members: Bobby Batyko (guitar/vocals), Lisa Case Doro (fiddle/vocals), Lori
 
 ### “Live! @ The Barrymore Theatre"
 SpareTime - Recorded February 20, 2022 at The Barrymore Theatre, Madison, WI by Audrey Martinovich of Audio for the Arts.
+
 Band Members: Bobby Batyko (guitar/vocals), Lisa Case Doro (fiddle/vocals), Lorie Docken (bass), Jim Robarts (banjo/vocals), Dale Ward (mandolin/dobro/vocals)
 
 - Against the Grain (Tim May)
@@ -32,6 +34,7 @@ Band Members: Bobby Batyko (guitar/vocals), Lisa Case Doro (fiddle/vocals), Lori
 
 ### “Vauxhall"
 SpareTime - 2014. Recorded at Audio for the Arts in Madison, WI
+
 Band Members: Bobby Batyko (guitar/vocals), Lorie Docken (bass), Jim Robarts (banjo/vocals), Dale Ward (mandolin/dobro/vocals), Lisa Case Doro (fiddle/vocals)
 
 - Vauxhall (Jim Robarts)
@@ -50,6 +53,7 @@ Band Members: Bobby Batyko (guitar/vocals), Lorie Docken (bass), Jim Robarts (ba
 
 ### “It is what it is"
 SpareTime - June 2008. Live recording from the Flatrock Bluegrass Festival, Antigo, WI.
+
 Band Members: Bobby Batyko Guitar & vocals; Lorie Docken Bass & no vocals; Jim Robarts Banjo & vocals; Scott Shank Resonator guitar & vocals; Dale Ward Mandolin & vocals.
 
 - Misery River (Worf)
@@ -68,6 +72,7 @@ Band Members: Bobby Batyko Guitar & vocals; Lorie Docken Bass & no vocals; Jim R
 
 ### “Stop Me If You've Heard This"
 SpareTime - June 2007. The album consists of live covers of country and rock tunes in the SpareTime bluegrass style. Yes, Werewolves of London is on the CD.
+
 Band Members: Bobby Batyko Guitar & vocals; Lorie Docken Bass & no vocals; Jim Robarts Banjo & vocals; Scott Shank Resonator guitar & vocals; Dale Ward Mandolin & vocals.
 
 - Gentle on my mind/Hartford
@@ -110,6 +115,7 @@ Band Members: Bobby Batyko Guitar & vocals; Lorie Docken Bass & no vocals; Jim R
 
 ### "The SpareTime Bluegrass Band Live"
 Recorded November 5, 1999 at the Barrymore Theatre. SpareTime was the opening act for Del McCoury. This CD includes all the bad jokes...
+
 Band Members: Jim Robarts Banjo & vocals, Bobby Steeno Mandolin & vocals, Bobby Batyko Guitar & vocals, Lisa Steeno Bass & vocals.
 
 - The Road Goes on Forever/Robert Earle Keen Jr.
