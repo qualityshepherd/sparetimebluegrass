@@ -1,4 +1,13 @@
-## 2024 Shows
+## 2025 Dates
+
+- **February 16**, United Way Bluegrass Benefit, Barrymore Theatre, Madison
+- **August 6**, UW-Madison Memorial Union Terrace, 4:00pm-6:00pm
+- **August 16**, Gandy Dancer Festival, Mazomanie, Wisconsin, 11:00am-12:30pm
+- **August 17**, Roxbury “Reunion” at the Iron Amethyst Inn, Mazomanie, 4:00pm-6:00pm  
+- **September 13**, The Biergarten at Olbrich Park, Madison, 5:30pm-7:30pm  
+- **September 14**, East Troy Bluegrass Festival, early afternoon (exact time TBD) 
+
+## 2024 Dates
 
 - **October 5**, Faded Roots Boutique, 375 E Main St., Sun Prairie, 10:30am-12:30pm
 - **August 18**, The Bur Oak, 2262 Winnegabo St., Madison, 7:30. (Opening for Katie Powderly.)
@@ -6,7 +15,7 @@
 - **August 23**, The Glen, 3747 Speedway Road, Madison, 5:30-7:30, with They Talk TOO Much.
 
 
-## 2023 Shows
+## 2023 Dates
 
 - Sunday, **February19**, 1-4pm, United Way Bluegrass Fundraiser, The Barrymore Theater (2090 Atwood Ave, Madison)
 - Friday, **June 9**, 6-9pm, Tyranena Brewery - with openers "They Talk Too Much" (1025 Owen St, Lake Mills)
@@ -14,7 +23,7 @@
 - Friday, **July 14**, 4-6pm, UW Memorial Union Terrace - with openers "They Talk Too Much" (800 Langdon St, Madison)
 
 
-## 2022 Shows
+## 2022 Dates
 
 - Sunday, **February 20**, 1-4pm, United Way Bluegrass Fundraiser, The Barrymore Theater (2090 Atwood Ave, Madison)
 - Friday, **May 13**, 4-7pm, Tyranena Brewery (1025 Owen St, Lake Mills)
@@ -27,7 +36,7 @@
 - Saturday, **October 15,** 12-3pm, Faded Roots Boutique (Sun Prairie)
 
 
-## 2021 Shows
+## 2021 Dates
 
 - Friday, **July 23**, 7-9pm-ish, Front Porch at Bob & Lori's (Madison)
 - Sunday, **August 22**, 2-4pm, Roxbury Reunion at the Iron Amethyst Inn (21 S State St (Hwy Y), Mazomanie - on the lawn)
@@ -36,7 +45,7 @@
 - Saturday, **October 9**, 4-7pm, Tyranena Brewery (1025 Owen St, Lake Mills)
 
 
-## 2020 Shows
+## 2020 Dates
 
 - Sunday, **January 26**, 3-5pm, Fundraiser with Bill & Bobbi Malone for our buddy Tom Gresser,  Common Ground (2644 Branch St, Middleton)
 - Saturday, **February 29**, private event
@@ -48,7 +57,7 @@
 - Thursday, **August 27**, 12 noon - 4pm, Dane County Airport (4000 International Ln, Madison)
 
 
-## 2019 Shows
+## 2019 Dates
 
 - Saturday, **March 16**, 7:30-9:30pm, St. Patrick's Day at Bos Meadery (849 E Washington Ave, Madison)
 - Sunday, **June 9**, 3-5pm, Farm to Feast, Crave Brothers Farmstead Cheese Company (W11555 Torpy Rd, Waterloo)
@@ -67,7 +76,7 @@
 - Tuesday, **December 31**, 7-9pm, Geezers' New Year's Eve at Common Ground (2644 Branch St, Middleton)
 
 
-## 2018 Shows
+## 2018 Dates
 
 - Wednesday, **January 24**, 7-9pm, Bos Meadery (849 E Washington Ave, Madison)
 - Saturday, **February 10**, private event
@@ -92,7 +101,7 @@
 - Monday, **December 31**, 7-9pm, Geezer's New Year's Eve at Common Ground (2644 Branch St, Middleton)
 
 
-## 2017 Shows
+## 2017 Dates
 
 - Saturday, **January 21**, 1-4pm, J&M Bar for the Belleville Bar Crawl (127 W Main St, Belleville)
 - Sunday, **February 12**, 1-5:30pm, United Way Bluegrass Fundraiser at The Barrymore Theater, also playing are Cork n'Bottle String Band, Dave Landeau, MadFiddle, Hwy 151, Soggy Prairie Boys, and The Old Tin Can String Band  (2090 Atwood Ave, Madison)
@@ -114,7 +123,7 @@
 - Sunday, **December 31**, 7-9pm, Geezer's New Year's Eve at Roxbury Tavern (8901 County Rd Y, Roxbury)
 
 
-## 2016 Shows
+## 2016 Dates
 
 - Sunday, **April 10**, 4-5pm, Harmony Bar (2201 Atwood Ave, Madison)
 - Sunday, **April 24**, 4:30-5:30pm, BOS Meadery "Bees of Spring Bluegrass Festival" (Check out the full festival from 12-6pm) (849 E. Washington Ave, Madison) [http://www.bosmeadery.com/events/event/1st-annual-bees-of-spring-bluegrass-festival/](http://www.bosmeadery.com/events/event/1st-annual-bees-of-spring-bluegrass-festival/)
