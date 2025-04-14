@@ -1,5 +1,5 @@
 ---
-title: SpareTime at Memorial Union Terrace
+title: SpareTime Bluegrass Band
 date: 2024-8-21
 tags: news
 ---
