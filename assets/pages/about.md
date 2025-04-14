@@ -1,6 +1,6 @@
 ### Bob Batyko
 
-Bob has his roots in the Pocono Mts of Pennsylvania and was raised near Akron, Ohio. He learned his Country music in Cleveland from Nellie Arnold and his Bluegrass in Bloomington, Indiana (close to Bean Blossom where he had a chance to jam with Brother Birch Monroe). He's also resided and played Bluegrass in Virginia and North Carolina. Early on he played the guitar and began working in church music, playing for some of the first guitar masses. He then "found" bluegrass music and worked at the songs of Doc Watson, Norman Blake and Bill Harrell. He is also involved with the Four Lakes Traditional Music Collective, promoting live music shows and the Sugar Maple Music Festival.
+Bob has his roots in the Pocono Mountains of Pennsylvania and was raised near Akron, Ohio. He learned his Country music in Cleveland from Nellie Arnold and his Bluegrass in Bloomington, Indiana (close to Bean Blossom where he had a chance to jam with Brother Birch Monroe). He's also resided and played Bluegrass in Virginia and North Carolina. Early on he played the guitar and began working in church music, playing for some of the first guitar masses. He then "found" bluegrass music and worked at the songs of Doc Watson, Norman Blake and Bill Harrell. He is also involved with the Four Lakes Traditional Music Collective, promoting live music shows and the Sugar Maple Music Festival.
 
 ### Lisa Case Doro
 
@@ -15,7 +15,7 @@ Emily, the newest member of the band, brings driving banjo playing and vocals (a
 
 ### Dale Ward
 
-Dale brings a hard driving mandolin to the band as well as high lonesome vocals. After years of forays into country and rock, he's embraced bluegrass. A multi-instrumentalist (he's been known to pick up a guitar, fiddle and Dobro), Dale puts his high tenor to good use in harmonies or lead vocal work.  
+Dale brings a hard-driving mandolin to the band as well as high lonesome vocals. After years of forays into country and rock, he's embraced bluegrass. A multi-instrumentalist (he's been known to pick up a guitar, fiddle and Dobro), Dale puts his high tenor to good use in harmonies or lead vocal work.  
 
 ### Jim Robarts, our dear friend passed in October 2023.  
 
