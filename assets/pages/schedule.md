@@ -3,7 +3,7 @@
 - **February 16**, United Way Bluegrass Benefit, Barrymore Theatre, Madison
 - **August 6**, UW-Madison Memorial Union Terrace, 4:00pm-6:00pm
 - **August 16**, Gandy Dancer Festival, Mazomanie, Wisconsin, 11:00am-12:30pm
-- **August 17**, Roxbury “Reunion” at the Iron Amethyst Inn, Mazomanie, 4:00pm-6:00pm  
+- **August 17**, Roxbury Tavern “Reunion” at the Iron Amethyst Inn, Mazomanie, 4:00pm-6:00pm  
 - **September 13**, The Biergarten at Olbrich Park, Madison, 5:30pm-7:30pm  
 - **September 14**, East Troy Bluegrass Festival, early afternoon (exact time TBD) 
 
