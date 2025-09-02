@@ -5,7 +5,8 @@
 - **August 16**, Gandy Dancer Festival, Mazomanie, Wisconsin, 11:00am-12:30pm
 - **August 17**, Roxbury Tavern “Reunion” at the Iron Amethyst Inn, Mazomanie, 4:00pm-6:00pm  
 - **September 13**, The Biergarten at Olbrich Park, Madison, 5:30pm-7:30pm  
-- **September 14**, East Troy Bluegrass Festival, early afternoon (exact time TBD) 
+- **September 14**, East Troy Bluegrass Festival, 2:00pm-2:45pm
+- **October 18**, Faded Roots Boutique, 146 Cliff St., Sun Prairie, 11:00am-1:00pm
 
 ## 2024 Dates
 
