@@ -7,6 +7,7 @@
 - **September 13**, The Biergarten at Olbrich Park, Madison, 5:30pm-7:30pm  
 - **September 14**, East Troy Bluegrass Festival, 2:00pm-2:45pm
 - **October 18**, Faded Roots Boutique, 146 Cliff St., Sun Prairie, 11:00am-1:00pm
+- **December 31**, Musky, 4102 Monona Drive, Madison, New Year's Eve Celebration 5:00-9:00 (Sparetime plays 6:00-8:00)
 
 ## 2024 Dates
 
