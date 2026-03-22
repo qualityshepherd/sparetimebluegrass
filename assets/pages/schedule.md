@@ -4,7 +4,9 @@
 - **March 21**, Southern Wisconsin Bluegrass Spring Jamboree, Harmony Bar, Madison, 1:00-4:00 (Sparetime at 4:00)
 - **April 18**, The Ladies of Bluegrass, The Watering Hole, Green Bay, Sparetime at 12:00pm
 - **May 30**, Olbrich Biergarten, Madison, 5:30-7:30
+- **June 2**, Belleville Music in the Park, 6:30-8:00
 - **June 5**, The Glen, Madison, 6:00-8:00
+- **July 19**, Brother Love Festival, Belleville Library Park, Sparetime at 11:00
 - **July 21**, Bluegrass Roundabout with Soggy Prairie, Harmony Bar, Sparetime at 7:30
 
 ## 2025 Dates
