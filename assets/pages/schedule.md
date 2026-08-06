@@ -8,7 +8,8 @@
 - **June 5**, The Glen, Madison, 6:00-8:00
 - **July 19**, Brother Love Festival, Belleville Library Park, Sparetime at 11:00
 - **July 21**, Bluegrass Roundabout with Soggy Prairie, Harmony Bar, Sparetime at 7:30
-- **August 6**, UW Memorial Union Terrace, Madison, 7:00-10:00
+- **August 6**, UW Memorial Union Terrace, with They Talk too Much, Madison, 7:00-10:00
+- **August 16**, Roxbury Tavern “Reunion” at Iron Amethyst Inn, Mazomanie, 4:00pm-6:00pm
 
 ## 2025 Dates
 - **February 16**, United Way Bluegrass Benefit, Barrymore Theatre, Madison
